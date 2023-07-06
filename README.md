@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasxavier29
+- 👋 Hi, I’m Lucas Xavier
 
 <!---
 lucasxavier29/lucasxavier29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
